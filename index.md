@@ -53,3 +53,21 @@ Here are some of my best Data Science Projects. I have explored various machine-
 - Training model on basis of Mnist data
 - Data Source: MNIST
 - Trained model with 10 epochs. ***
+
+***
+
+[Talking Data Ad Tracking Fraud Detection Challenge](https://github.com/Joshmen06/Bagging_Boosting-Project/blob/main/1_Bagging_Boosting_Project.ipynb)
+
+<img src="images/bagg.jpg?raw=true"/>
+
+**Skills used:**  Python, Pandas, SKlearn, Matplotlib, XGB, SMOTE 
+
+**Project Objective:** Predicting fraud clicks depending on features like clicks, IP Address, time, etc.
+
+**Quantifiable result:** We could train the Convolutional Neural Network to attain a accuracy of [**99%**](https://github.com/Joshmen06/Bagging_Boosting-Project/blob/main/1_Bagging_Boosting_Project.ipynb).
+
+- Employed Bagging and Boosting algorithms for classification of fraudulent ad clicks.
+- The dataset was cleaned and prepared for training with ensemble learning methods
+- Studied dependance of an ad click being fraudulent on the IP address, click time, number of clicks from the same IP address,etc 
+- Explored a machine learning approach in solving the problem of advertisement companies, where their revenue is lost on fraudulent clicks on their ads on various websites.
+- Data Source: Kaggle
